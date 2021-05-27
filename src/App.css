@@ -108,8 +108,52 @@ width: 300px;
   }
  
 .I{
- padding-left: 15px;
+ padding-left: 0px;
+}
+.trailer{
+  display: flex;
+  flex-direction: column;
+}
+.bb{
+  border: rgb(190, 158, 109);
+  margin-top: 10px;
+  background-color: rgb(195, 204, 199);
+}
+.trai{
+  margin-top: 20px;
+  background-color: rgb(220, 226, 228);
+}
+.rd{
+  margin-top: 30px;
+  background-color: rgb(235, 239, 240);
+  height: 600px;
+}
+.pg{
+  height: 100px;
+  width: 1000px;
+  font-size: 20px;
+  padding-left:400px;
+ font-family:inherit;
+ font-weight: 500;
 }
 
+.t{
+  color:rgb(9, 117, 121);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+ .b{
+   background-color: rgb(103, 177, 182);;
+   border: none;
+   width: 100px;
+   height: 30px;
+ font-weight: 700;
+ margin-top: 20px;
 
+ }
 
+ .App{
+   background-color: rgb(224, 229, 231);
+ }
+ .h{color:rgb(9, 117, 121);
+ }

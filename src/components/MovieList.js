@@ -9,7 +9,7 @@ function MovieList({movies,text,rate}) {
 console.log(movies.rating)
     return (
         <div>
-            <h1 style={{color:"black", fontSize:40}}>
+            <h1 className="h" style={{ fontSize:40}}>
                 Movies
             </h1>
             <div className="carte">
